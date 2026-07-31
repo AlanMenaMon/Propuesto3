@@ -14,4 +14,4 @@ La aplicación funciona mediante los siguientes componentes:
 ## 📷 Documentación
 Captura de pantalla correspondiente al funcionamiento del programa:
 
-![Documentación del Ejercicio](DOCUMENTACION/fotoTres.jpg)
+![Documentación del Ejercicio](imagenes/734f0f51-5057-4afe-b67f-1a7d0149d5a5.jpg)

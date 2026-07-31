@@ -1,0 +1,10 @@
+C:\Users\ALAN MENA\Documents\programacion\semestre -2\Propuestos-interfaces\MenuColmado\bin\Debug\MenuColmado.exe.config
+C:\Users\ALAN MENA\Documents\programacion\semestre -2\Propuestos-interfaces\MenuColmado\bin\Debug\MenuColmado.exe
+C:\Users\ALAN MENA\Documents\programacion\semestre -2\Propuestos-interfaces\MenuColmado\bin\Debug\MenuColmado.pdb
+C:\Users\ALAN MENA\Documents\programacion\semestre -2\Propuestos-interfaces\MenuColmado\obj\Debug\MenuColmado.csproj.AssemblyReference.cache
+C:\Users\ALAN MENA\Documents\programacion\semestre -2\Propuestos-interfaces\MenuColmado\obj\Debug\MenuColmado.Form1.resources
+C:\Users\ALAN MENA\Documents\programacion\semestre -2\Propuestos-interfaces\MenuColmado\obj\Debug\MenuColmado.Properties.Resources.resources
+C:\Users\ALAN MENA\Documents\programacion\semestre -2\Propuestos-interfaces\MenuColmado\obj\Debug\MenuColmado.csproj.GenerateResource.cache
+C:\Users\ALAN MENA\Documents\programacion\semestre -2\Propuestos-interfaces\MenuColmado\obj\Debug\MenuColmado.csproj.CoreCompileInputs.cache
+C:\Users\ALAN MENA\Documents\programacion\semestre -2\Propuestos-interfaces\MenuColmado\obj\Debug\MenuColmado.exe
+C:\Users\ALAN MENA\Documents\programacion\semestre -2\Propuestos-interfaces\MenuColmado\obj\Debug\MenuColmado.pdb
